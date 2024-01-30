@@ -504,6 +504,27 @@ hr{
         cursor: pointer;
     }
 
+    #discord_tab{
+        position: fixed;
+        height: 24px;
+        width: 24px;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+        top: 128px;
+        right: 0px;
+        background-color: #313248;
+        padding: 5px;
+        cursor: pointer;
+        border-style: solid;
+        border-color: #ccc;
+        border-width: 1px 0px 1px 1px;
+        border-radius: 5px 0px 0px 5px;
+    }
+
     /* #settings_tab:hover, #discord_link_tab:hover, #event_tab:hover, #wiki_tab:hover, #maps_tab:hover{
         background-color: #ffffff60;
     } */

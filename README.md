@@ -1,4 +1,4 @@
-# Unofficial Phasmo Cheat Sheet
+# Phasmo Cheat Sheet
 
 A client facing web-app guide for the horror video game Phasmophobia.
 
